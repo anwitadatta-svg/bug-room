@@ -34,6 +34,8 @@ The sample invoice has a deliberate wrong total (95,830 instead of 21,830), a sa
 https://youtu.be/ukTS4AO6pJo?si=-IAbH_3lT19rLCot
 
 ## Screenshots
-<img width="1366" height="768" alt="review1 png" src="https://github.com/user-attachments/assets/64ba2066-b5de-4763-addd-f05fbbd75f81" />
-<img width="1366" height="768" alt="review2 png" src="https://github.com/user-attachments/assets/b7bb7a1c-1f27-4af1-9a0a-704e16695f83" /><img width="1366" height="768" alt="reject png" src="https://github.com/user-attachments/assets/63077394-df1a-4037-bc8c-e9e8013ea507" />
-<img width="1366" height="768" alt="setup png" src="https://github.com/user-attachments/assets/fbace238-387d-4231-9cd4-4537b02b58de" />
+<img width="1366" height="768" alt="Setup png (2)" src="https://github.com/user-attachments/assets/d0f392f8-9809-4acd-9459-2e64cf05c103" />
+<img width="1366" height="768" alt="Reject png (2)" src="https://github.com/user-attachments/assets/e6aabf38-0e99-40b4-8d05-85f5be3f19a3" />
+<img width="1366" height="768" alt="Review2 png (2)" src="https://github.com/user-attachments/assets/1732d620-7ac5-4551-b7e4-39b94b94f34f" />
+<img width="1366" height="768" alt="Review1 png (2)" src="https://github.com/user-attachments/assets/d51d31fd-9e1d-49c4-ba3b-43880f74eace" />
+
