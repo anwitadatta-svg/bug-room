@@ -1,4 +1,4 @@
-# Invoice Approval Room: DevTools Academy "Flip the Script" Hackathon 2026
+# Invoice Approval Room: DevTools Academy "Flip the Switch" Hackathon 2026
 
 An AI agent and a human manager review invoices together inside a **Switch Room**. The whole workflow happens in the room.
 
