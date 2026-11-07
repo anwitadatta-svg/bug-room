@@ -31,7 +31,7 @@ The sample invoice has a deliberate wrong total (95,830 instead of 21,830), a sa
 - Invoices are pasted as text. PDF attachments are not read by the agent yet.
 
 ## Demo
-Demo video: ADD LINK HERE
+https://youtu.be/ukTS4AO6pJo?si=-IAbH_3lT19rLCot
 
 ## Screenshots
-Add screenshots here.
+<img width="1366" height="768" alt="review1 png" src="https://github.com/user-attachments/assets/64ba2066-b5de-4763-addd-f05fbbd75f81" />
