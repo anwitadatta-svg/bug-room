@@ -35,3 +35,5 @@ https://youtu.be/ukTS4AO6pJo?si=-IAbH_3lT19rLCot
 
 ## Screenshots
 <img width="1366" height="768" alt="review1 png" src="https://github.com/user-attachments/assets/64ba2066-b5de-4763-addd-f05fbbd75f81" />
+<img width="1366" height="768" alt="review2 png" src="https://github.com/user-attachments/assets/b7bb7a1c-1f27-4af1-9a0a-704e16695f83" /><img width="1366" height="768" alt="reject png" src="https://github.com/user-attachments/assets/63077394-df1a-4037-bc8c-e9e8013ea507" />
+<img width="1366" height="768" alt="setup png" src="https://github.com/user-attachments/assets/fbace238-387d-4231-9cd4-4537b02b58de" />
